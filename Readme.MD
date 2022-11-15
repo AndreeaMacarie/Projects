@@ -1,4 +1,4 @@
-This repository contains all the projects that I make while learning HTML, CSS, JavaScript and React.
+This repository contains all the projects that I made while learning HTML, CSS, JavaScript and React.
 
 HTML and CSS projects starts by opening the youtube.html file or by typing live-server in Visual Studio Code(VSC) console and selecting youtube.html.
 
